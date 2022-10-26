@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, helvetica, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    min-width: 100vh;
+}
+main {
+    min-height: 70vh;
+    margin: 1rem;
+    padding: 1rem;
+}
