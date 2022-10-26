@@ -1,7 +1,7 @@
-import { Cards } from '../item/cards';
+import { Cards } from '../cards/cards';
 export const Main = () => {
     return (
-        <main>
+        <main className="characters-list row list-unstyled">
             <Cards></Cards>
         </main>
     );
